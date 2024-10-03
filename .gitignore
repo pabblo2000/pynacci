@@ -1,0 +1,36 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+upload_version.ipynb
+
+# Archivos de instalación
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Archivos de configuración de herramientas
+*.log
+*.sqlite
+*.vscode/
+.idea/
+.DS_Store
+
+# Archivos de sistema operativo
+Thumbs.db
+.DS_Store
+*.swp
+
+# Archivos de pruebas
+.coverage
+pytest_cache/
+tests/__pycache__/
